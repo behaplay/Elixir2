@@ -30,7 +30,7 @@ export function Hero() {
                 <div className="container w-full h-[645px] flex items-center justify-between">
                     <Card className="mt-6 w-[650px] bg-transparent flex flex-col gap-10 shadow-none text-[#2A3855] rounded-none">
                         <CardBody className="flex flex-col gap-10">
-                            <Typography variant="h5" color="blue-gray" className="mb-2 text-7xl font-black animate-fade-up animate-duration-1000 animate-delay-500">
+                            <Typography variant="h5" color="blue-gray" className="mb-2 text-6xl font-black animate-fade-up animate-duration-1000 animate-delay-500">
                                 Helping Leaders
                             </Typography>
                             <Typography className=" text-2xl animate-fade-up animate-duration-1000 animate-delay-500">
