@@ -6,7 +6,7 @@ const Carusel = () => {
         <Carousel
             autoplay="true"
             loop
-            className="mx-4 mt-20 flex justify-center items-center rounded-xl bg-gray-200 w-[70%]">
+            className="mx-4 mt-20 mx-auto rounded-xl bg-gray-200 w-[70%]">
             <div className="flex w-full animate-fade-up duration-300 flex-col md:flex-row justify-center items-center gap-10 my-20 px-1">
                 <img src="https://prium.github.io/elixir/v3.0.0/assets/img/client3.png" className="w-[193px] h-[193px]" alt="" />
                 <div className="md:w-[600px] flex flex-col justify-center">
